@@ -1,4 +1,4 @@
-Movie Recommending System
+# Movie Recommending System
 
 
 
@@ -7,7 +7,7 @@ This repository contains a simple web-based movie recommending system using The 
 Table of Contents
 
 
-•	Features
+#	Features
 
 •	Installation
 
@@ -17,8 +17,7 @@ Table of Contents
 
 •	API Key
 
-•	License
-Features
+•	License Features
 
 •	Search Functionality: Users can search for movies by title.
 
@@ -30,7 +29,7 @@ Features
 
 •	Responsive Design: The layout adapts to different screen sizes.
 
-Installation
+# Installation
 
 1.	Clone the repository:
 
@@ -42,7 +41,7 @@ cd movie-recommending-system
 
 3.	Open index.html in your preferred web browser.
 
-Usage
+# Usage
 
 1.	Open index.html in a web browser.
 
@@ -54,7 +53,7 @@ Usage
 
 5.	Click on a movie to view detailed information and watch trailers.
 
-Files
+# Files
 
 •	index.html: The main HTML file containing the structure of the web page.
 
@@ -62,7 +61,7 @@ Files
 
 •	script.js: JavaScript file that handles the interaction with the TMDB API and dynamic content updates.
 
-API Key
+# API Key
 
 This project uses the TMDB API. Ensure you replace the placeholder API_KEY in script.js with your own API key from TMDB. To obtain an API key:
 
@@ -74,11 +73,11 @@ This project uses the TMDB API. Ensure you replace the placeholder API_KEY in sc
 
 const API_KEY = 'your_api_key_here';
 
-License
+# License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this project.
 ________________________________________
-Notes
+# Notes
 
 •	Ensure you have a stable internet connection to fetch data from the TMDB API.
 
